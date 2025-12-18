@@ -47,6 +47,6 @@ This project was built to:
 
 This project focuses on core Android development concepts, including UI composition, state management, and user interaction.
 
-<h2>Author</h2>
+<h2>Authors</h2>
 
 Created by Tarik Hodžić, Selma Karasoftić, Amina Brković and Ammarudin Kovačević
